@@ -8,8 +8,7 @@ It makes use of NODEMCU microcontroller, relay module and a power source.
 
 Firstly the database is made usng firebase which stores each user's fingerprint template along with the photo of person for double authentication and then the user can login through the application and punch his/her fingerprint for marking attendance or unlocking door locks. Further more we can make use of GI tags and link the API with the application where it can send user's data along with the time and location. This ensures that the person requesting access is in the perimeter area.
 
-
-                                                               USER INERFACE
+**USER INTERFACE**
 ![image](https://user-images.githubusercontent.com/93175201/229305102-cfa7f663-bfb2-4053-acd8-a3a5a7369b04.png)
 ![image](https://user-images.githubusercontent.com/93175201/229304925-3180331f-be3a-44de-8678-783ac99cdcb4.png)
 
@@ -33,10 +32,10 @@ Firstly the database is made usng firebase which stores each user's fingerprint 
 
 
 
-                                                                    Acess Logs and Circuit                                                                                                    
+                                                                                                                                                               
 
 
-
+**ACCESS LOGS**
 ![image](https://user-images.githubusercontent.com/93175201/229305146-f688bbf1-3bc7-4ab2-9851-fc96ef917059.png)   ![image](https://user-images.githubusercontent.com/93175201/229305194-91f1088a-8cd4-4aa9-be9f-19f6982d93b5.png)
 
 
