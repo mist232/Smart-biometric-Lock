@@ -13,31 +13,21 @@ Firstly the database is made usng firebase which stores each user's fingerprint 
 ![image](https://user-images.githubusercontent.com/93175201/229305102-cfa7f663-bfb2-4053-acd8-a3a5a7369b04.png)
 ![image](https://user-images.githubusercontent.com/93175201/229304925-3180331f-be3a-44de-8678-783ac99cdcb4.png)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                                                                                                                                                               
-
-
+<br>
+<br>
+<br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br
 **ACCESS LOGS**
-![image](https://user-images.githubusercontent.com/93175201/229305146-f688bbf1-3bc7-4ab2-9851-fc96ef917059.png)   ![image](https://user-images.githubusercontent.com/93175201/229305194-91f1088a-8cd4-4aa9-be9f-19f6982d93b5.png)
+ <br> 
+![image](https://user-images.githubusercontent.com/93175201/229305146-f688bbf1-3bc7-4ab2-9851-fc96ef917059.png)   
+![image](https://user-images.githubusercontent.com/93175201/229305194-91f1088a-8cd4-4aa9-be9f-19f6982d93b5.png)
 
 
 
