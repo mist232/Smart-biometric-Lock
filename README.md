@@ -7,6 +7,11 @@ It makes use of NODEMCU microcontroller, relay module and a power source.
 
 
 Firstly the database is made usng firebase which stores each user's fingerprint template along with the photo of person for double authentication and then the user can login through the application and punch his/her fingerprint for marking attendance or unlocking door locks. Further more we can make use of GI tags and link the API with the application where it can send user's data along with the time and location. This ensures that the person requesting access is in the perimeter area.
+# **Video**
+
+
+https://github.com/mist232/Smart-biometric-Lock/assets/93175201/8bdba0c6-1271-4e74-bbb0-fc8ffb2a0431
+
 
 **USER INTERFACE**<br>
 <br>
